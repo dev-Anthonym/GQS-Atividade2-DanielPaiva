@@ -1,0 +1,1 @@
+# GQS-Atividade2-DanielPaiva
