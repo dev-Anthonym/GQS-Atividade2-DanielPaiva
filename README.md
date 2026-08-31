@@ -44,7 +44,7 @@
 --- Calculadora Básica ---
 1. Soma (+)
 2. Subtração (-)
-3. Mutiplicação (*)
+3. Multiplicação (*)
 4. Divisão (/)
 
 Escolha uma operação (1/2/3/4): 4
@@ -54,6 +54,7 @@ Digite o segundo número: 2
 Resultado: 10.0 / 2.0 = 5.0
 ```
 
+## 6. Sobre o Autor
+Documentação realizada por Anthony Magalhães como parte da `Lista de Exercícios II` com o objetivo de fazer a documentação do código `calculadora.py`.
 
-
-
+🔗 [Meu GitHub](https://github.com/dev-Anthonym)
