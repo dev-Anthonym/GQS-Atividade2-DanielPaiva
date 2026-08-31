@@ -40,15 +40,19 @@
   - Retorno: `None` (Apenas imprime dados no console).
 
 ## 5. Exemplo de Uso
+```
+--- Calculadora Básica ---
+1. Soma (+)
+2. Subtração (-)
+3. Mutiplicação (*)
+4. Divisão (/)
 
+Escolha uma operação (1/2/3/4): 4
+Digite o primeiro número: 10
+Digite o segundo número: 2
 
-
-
-
-
-
-
-
+Resultado: 10.0 / 2.0 = 5.0
+```
 
 
 
